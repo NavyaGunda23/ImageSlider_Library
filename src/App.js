@@ -1,5 +1,5 @@
 import React from 'react'
-import CarouselCon from './component/Carousel'
+import CarouselCon from './component/CarouselCon'
 function App() {
   return (
     <div className="App">
